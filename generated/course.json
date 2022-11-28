@@ -14,14 +14,15 @@
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/courses/DoDAO/DeFi/defi_logo.jpeg",
   "topics": [
     {
-      "title": "AAVE Smart Contracts",
+      "title": "The Blockchain Revolution",
       "key": "aave-smart-contracts",
-      "details": "This chapter taks about various important smart contracts of AAVE which forms the basis of lending and borrowing\n",
+      "details": "### About the video\nIn this lesson, you will have a short introduction to the course and you will learn the key concepts of the blockchain revolution: why Web3 is a new iteration of the Internet and how it is different from Web2, the Internet controlled by the big tech companies of Silicon Valley. \n\nWatch this short recording of this first lesson by Kleros's CEO, Federico Ast before moving to the subsequent pages to test your knowledge! \n\n### Homework and further readings\n#### Homework\nThe homework for this lesson is to read the materials below to build an understanding of Web3.\n\n#### Further readings\n- Carlota Pérez. “[Technological Revolutions and Financial Capital](https://books.google.com.uy/books/about/Technological_Revolutions_and_Financial.html?id=FNW5RriDOGAC&redir_esc=y)”.\n- Chris Burniske. “[Cryptonetworks are not Companies](https://medium.com/@cburniske/cryptonetworks-are-not-companies-a307ad6a61ae)”. Placeholder.\n- Chris Burniske. “[Protocols as Minimally Extractive Coordinators](https://www.placeholder.vc/blog/2019/10/6/protocols-as-minimally-extractive-coordinators)”. Placeholder.\n- Chris Dixon. “[Why Decentralization Matters](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e)”. A16z blog.\n- Jake Brukhman. “[All Digital Content is Going On-Chain](https://blog.coinfund.io/all-digital-content-is-going-on-chain-ae26a7071657)”.\n- Jesse Walden. “[Past, Present, Future. From Coops to Cryptonetworks](https://a16z.com/2019/03/02/cooperatives-cryptonetworks/)”.\n- Jesse Walden. “[Crypto’s Business Model is Familiar. What Isn’t is Who Benefits](https://future.com/crypto-business-model/)”. Future.\n- Joel Monegro. “[Fat Protocols](https://www.usv.com/writing/2016/08/fat-protocols/)”. Union Square Ventures.\n- Joel Monegro and Chris Burniske. “[Placeholder Investment Thesis Summary](https://www.placeholder.vc/blog/2018/2/13/thesis-summary)”. Placeholder.\n- Mario Laul. “[How Crypto is Shaping the Digital Revolution](https://society.mirror.xyz/4jGQznFpgO1QvTg9VVtb7U7MYTHITuxkazUyDtnhwkI)”.\n- Vitalik Buterin. “[Credible Neutrality as a Guiding Principle”](https://nakamoto.com/credible-neutrality/). Nakamoto. 2020.\n- Glen Weyl, Puja Ohlhaver and Vitalik Buterin. [Decentralized Society: Finding Web3's Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763).\n",
       "order": 0,
       "explanations": [],
       "questions": [],
       "readings": [],
       "summaries": []
     }
-  ]
+  ],
+  "uuid": "aave-developer-1"
 }
