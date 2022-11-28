@@ -28,8 +28,8 @@ The homework for this lesson is to read the materials below to build an understa
 
 
 ## Links
-[Reading List](./../../generated/readings/aave-smart-contracts.md)
+[Reading List](./../../generated/readings/the-blockchain-revolution.md)
 
 
 
-[Questions](./../../generated/questions/aave-smart-contracts.md)
+[Questions](./../../generated/questions/the-blockchain-revolution.md)

@@ -1,5 +1,5 @@
 title: How to Build in Web3
-key: aave-developer-1
+key: how-to-build-in-web3
 summary: |
   This is a technical course for Builders who look to build in Web3 space.
 highlights:
@@ -24,7 +24,7 @@ details: >-
 duration: 1 - 2 hours
 topics:
   - title: The Blockchain Revolution
-    key: aave-smart-contracts
+    key: the-blockchain-revolution
     details: >
       ### About this chapter
 
@@ -85,5 +85,5 @@ topics:
       - Glen Weyl, Puja Ohlhaver and Vitalik Buterin. [Decentralized Society:
       Finding Web3's
       Soul](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4105763).
-    readings: aave-smart-contracts.yaml
-    questions: aave-smart-contracts.yaml
+    readings: the-blockchain-revolution.yaml
+    questions: the-blockchain-revolution.yaml
