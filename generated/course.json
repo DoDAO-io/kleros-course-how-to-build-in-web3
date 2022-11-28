@@ -20,7 +20,17 @@
       "order": 0,
       "explanations": [],
       "questions": [],
-      "readings": [],
+      "readings": [
+        {
+          "uuid": "642e6df3-8dce-4e53-bf79-553d52bdc321",
+          "shortTitle": "Blochain Revolution",
+          "details": "Watch this short recording of this first lesson by Kleros's CEO, Federico Ast before moving to the subsequent pages to test your knowledge! \n",
+          "title": "Session 1 - The Blockchain Revolution",
+          "type": "YoutubeVideo",
+          "url": "https://www.youtube.com/watch?v=kAcZSGIrF-4",
+          "subTopics": []
+        }
+      ],
       "summaries": []
     }
   ],
