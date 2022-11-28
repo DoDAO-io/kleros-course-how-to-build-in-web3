@@ -9,8 +9,7 @@ This chapter taks about various important smart contracts of AAVE which forms th
 
 
 ## Links
-[Reading List](./../../generated/readings/aave-smart-contracts.md)
 
 
 
-[Questions](./../../generated/questions/aave-smart-contracts.md)
+

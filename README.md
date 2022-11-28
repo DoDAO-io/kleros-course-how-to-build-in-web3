@@ -18,4 +18,4 @@ This is the course header. This will be added on top of every page. Go to [DoDAO
  
  | S.No        | Title       | Contents   | Links      | Status      | Completion Week |
  | ----------- | ----------- |----------- |----------- | ----------- | ----------- |
- | 1      | AAVE Smart Contracts | | [Details](generated/topics/aave-smart-contracts.md) <br/>  <br/>  <br/> [Reading List](generated/readings/aave-smart-contracts.md) <br/> [Questions](generated/questions/aave-smart-contracts.md) | undefined | undefined | 
+ | 1      | AAVE Smart Contracts | | [Details](generated/topics/aave-smart-contracts.md) <br/>  <br/>  <br/>  <br/>  | undefined | undefined | 
