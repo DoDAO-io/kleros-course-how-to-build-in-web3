@@ -175,9 +175,9 @@
       "readings": [
         {
           "uuid": "580a539b-288c-40d3-80fd-f5ccdf7eb822",
-          "title": "Session 1 - The Blockchain Revolution",
           "shortTitle": "Blochain Revolution",
-          "details": "Watch this short recording of this first lesson by Kleros's CEO, Federico Ast before moving to the subsequent pages to test your knowledge! \n",
+          "details": "Watch this short recording of this first lesson by Kleros's CEO, Federico Ast before moving to the subsequent pages to test your knowledge! \n\nIn this lesson, you will have a short introduction to the course and you will learn the key concepts of the blockchain revolution: why Web3 is a new iteration of the Internet and how it is different from Web2, the Internet controlled by the big tech companies of Silicon Valley. \n",
+          "title": "Session 1 - The Blockchain Revolution",
           "type": "YoutubeVideo",
           "url": "https://www.youtube.com/watch?v=kAcZSGIrF-4",
           "subTopics": []
