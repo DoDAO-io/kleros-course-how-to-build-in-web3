@@ -1,0 +1,64 @@
+- answerKeys:
+    - only_cat
+    - dog_and_cat
+  choices:
+    - content: Increasing its utility.
+      key: dog_and_cat
+    - content: Decreasing its utility.
+      key: dog_or_cat
+    - content: Increasing its attack surface
+      key: only_dog
+    - content: Decreasing its attack surface.
+      key: only_cat
+  content: >-
+    According to the Protocol Sink Thesis, what are the ways to increase
+    the adoption of a Web3 protocol?
+  type: MultipleChoice
+  hint: NoHint
+  explanation: No Explanation
+  uuid: 73a2b4db-c5d6-4346-a37d-dc864316d9f9
+- answerKeys:
+    - 9989d1c6
+  choices:
+    - content: >-
+        It is a methodology for operating a startup with the lowest cost
+        and overhead.
+      key: c757baae
+    - content: >-
+        It is a design thinking methodology that summarizes the key
+        elements of a startup in a simple sheet.
+      key: 9989d1c6
+    - content: It is relevant only for late stage companies.
+      key: 62da8ed9
+  content: Which of the following are true about the purpose of the Lean Canvas?
+  type: MultipleChoice
+  hint: NoHint
+  explanation: No Explanation
+  uuid: f4895fcd-ca8b-4ada-b022-b58ac26dc52e
+- answerKeys:
+    - d6964907
+    - acbf8b3c
+  choices:
+    - content: >-
+        'Channels' in the Lean Canvas refer to how you get access to your
+        suppliers.
+      key: 7a5b2614
+    - content: >-
+        The first step in developing your startup's Lean Canvas is to
+        figure out your cost structure.
+      key: cbf80717
+    - content: >-
+        After figuring out the problem you want to solve, you need to
+        figure out the right customer segments to address.
+      key: d6964907
+    - content: >-
+        A well thought out Lean Canvas is essential to the success of a
+        startup's product.
+      key: acbf8b3c
+  content: >-
+    Which of the following are true about the components of the Lean
+    Canvas?
+  type: MultipleChoice
+  hint: NoHint
+  explanation: No Explanation
+  uuid: 3f830ea0-bf5c-4b58-9f2e-49c670feaee6

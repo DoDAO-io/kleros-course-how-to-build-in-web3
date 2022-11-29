@@ -9,13 +9,13 @@ This is the course header. This will be added on top of every page. Go to [DoDAO
  
  ## Description
  In this course we cover the following
-1) Chapter 1 - Information about various smart contracts of AAVE
-2) Chapter 2 - How to pull data from Aave which can be used to create analytics applications
-3) Chapter 3 - How to setup a developer environment to interact with Aave's smart contracts
-4) Chapter 4 - Interacting with Aave's Smart Contracts
+1) Chapter 1 - The Blockchain Revolution
+2) Chapter 2 - Strategy Design
+3) Chapter 3 - Network Effects
  
  ## Chapters
  
  | S.No        | Title       | Contents   | Links      | Status      | Completion Week |
  | ----------- | ----------- |----------- |----------- | ----------- | ----------- |
- | 1      | The Blockchain Revolution | | [Details](generated/topics/the-blockchain-revolution.md) <br/>  <br/>  <br/> [Reading List](generated/readings/the-blockchain-revolution.md) <br/> [Questions](generated/questions/the-blockchain-revolution.md) | undefined | undefined | 
+ | 1      | The Blockchain Revolution | | [Details](generated/topics/the-blockchain-revolution.md) <br/>  <br/>  <br/> [Reading List](generated/readings/the-blockchain-revolution.md) <br/> [Questions](generated/questions/the-blockchain-revolution.md) | undefined | undefined |
+ | 2      | Strategy Design | | [Details](generated/topics/strategy-design.md) <br/>  <br/>  <br/> [Reading List](generated/readings/strategy-design.md) <br/>  | undefined | undefined | 

@@ -23,21 +23,6 @@ Sub Topics: No Sub-Topics
 
 ---
 
-##### Which event precipitated the rise of Bitcoin and the Blockchain Revolution?  
-
-- [ ]  The 2000 dot-com crash.
-- [x]  The 2008 Global Financial Crisis (aka Great Recession).
-- [ ]  The 1929 stock market crash at the start of the Great Depression.
-  
-Hint: NoHint
-         
-Explanation: No Explanation
-
-Sub Topics: No Sub-Topics
- 
-
----
-
 ##### Why are Web2 platforms referred to as 'siren servers' by Jaron Lanier in his book 'Who Owns the Future'?  
 
 - [ ]  They are great for sourcing great music.
