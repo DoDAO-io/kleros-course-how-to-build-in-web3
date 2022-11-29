@@ -5,9 +5,10 @@
   "details": "In this course we cover the following\n1) Chapter 1 - The Blockchain Revolution\n2) Chapter 2 - Strategy Design\n3) Chapter 3 - Network Effects",
   "duration": "1 - 2 hours",
   "highlights": [
-    "The Blockchain Revolution",
-    "Strategy Design",
-    "Network Effects"
+    "AAVE Smart Contract Introduction",
+    "Fetching AAVE Data",
+    "Developer Environment Setup",
+    "Writing simple UI application on top of AAVE"
   ],
   "publishStatus": "Live",
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmdnS6QTJ2njj5swrox8tPxCFFHoWMvDGWqZfjzAtMzLT6",
@@ -288,24 +289,203 @@
       "summaries": []
     },
     {
-      "key": "network-effects",
       "title": "Network Effects",
+      "key": "network-effects",
       "details": "Web3 protocols typically operate as multi-sided platforms connecting different types of users. Their growth potential typically depends on their ability to create network effects. In this lesson, you will learn how to study your market structure and your different user types in order to create a network effects strategy.",
+      "order": 2,
       "explanations": [],
+      "questions": [
+        {
+          "answerKeys": [
+            "dog_or_cat",
+            "only_dog",
+            "only_cat"
+          ],
+          "choices": [
+            {
+              "content": "It helps you build products that are resistant to network outages.",
+              "key": "dog_and_cat"
+            },
+            {
+              "content": "It helps you develop a growth strategy for your product.",
+              "key": "dog_or_cat"
+            },
+            {
+              "content": "It helps explain how an early start can help you build a moat that protects you against competition.",
+              "key": "only_dog"
+            }
+          ],
+          "content": "Why is it important to understand network effects in Web3?",
+          "type": "MultipleChoice",
+          "hint": "NoHint",
+          "explanation": "No Explanation",
+          "uuid": "71c5307a-fbca-40bb-a548-01400140e95f"
+        },
+        {
+          "answerKeys": [
+            "2c74b42b"
+          ],
+          "choices": [
+            {
+              "content": "The network is only as strong as its weakest link.",
+              "key": "105ec6ca"
+            },
+            {
+              "content": "The value of a network grows exponentially as more people join.",
+              "key": "2c74b42b"
+            },
+            {
+              "content": "A Metcalfe network will be able to continue to operate even if parts of it are cut off from the rest.",
+              "key": "37107021"
+            }
+          ],
+          "content": "What is the Metcalfe's Law in the field of networks?",
+          "type": "SingleChoice",
+          "hint": "NoHint",
+          "explanation": "No Explanation",
+          "uuid": "aa612b74-81c6-467f-b8be-510b378e7352"
+        },
+        {
+          "answerKeys": [
+            "ec6994f7",
+            "7acfafee"
+          ],
+          "choices": [
+            {
+              "content": "An on-demand food delivery service.",
+              "key": "7c1d5487"
+            },
+            {
+              "content": "A decentralized peer-to-peer messaging service.",
+              "key": "ec6994f7"
+            },
+            {
+              "content": "An NFT platform marketplace.",
+              "key": "c7ee9848"
+            },
+            {
+              "content": "A social network platform.",
+              "key": "7acfafee"
+            }
+          ],
+          "content": "Which of these businesses are likely to be able to take advantage of network effects when delivering value to their users?",
+          "type": "MultipleChoice",
+          "hint": "NoHint",
+          "explanation": "No Explanation",
+          "uuid": "95cb128c-de11-4fa4-b7d5-460a6041039d"
+        },
+        {
+          "answerKeys": [
+            "38cd14ea",
+            "d80926ca"
+          ],
+          "choices": [
+            {
+              "content": "YouTube growing in usage as the speed of internet networks grow globally.",
+              "key": "96d0915f"
+            },
+            {
+              "content": "Ethereum growing as more and more interdependent dApps are built on top of it.",
+              "key": "38cd14ea"
+            },
+            {
+              "content": "Telegram growing in user base as more and more people invite their friends to the platform.",
+              "key": "d80926ca"
+            }
+          ],
+          "content": "Which of the following are examples of direct network effects?\n",
+          "type": "MultipleChoice",
+          "hint": "NoHint",
+          "explanation": "No Explanation",
+          "uuid": "d72542f9-920d-43b4-88cd-28ba0ef1fe18"
+        },
+        {
+          "answerKeys": [
+            "2044789e",
+            "76df13dc"
+          ],
+          "choices": [
+            {
+              "content": "Kleros growing in integrations and jury size, as long-time jurors go on to start their own projects to use Kleros, and vice versa.",
+              "key": "76df13dc"
+            },
+            {
+              "content": "YouTube growing in usage due to consumers, advertisers and content producers using it as a platform to consume each other's content and information.",
+              "key": "2044789e"
+            },
+            {
+              "content": "DoorDash being able to offer super fast delivery due to the network of highways available in the United States.",
+              "key": "a2a68e97"
+            }
+          ],
+          "content": "Which of the following are examples of indirect network effects?",
+          "type": "MultipleChoice",
+          "hint": "NoHint",
+          "explanation": "No Explanation",
+          "uuid": "0ffa1f53-415b-466e-8c3c-ad38f966c9a6"
+        },
+        {
+          "answerKeys": [
+            "920e1e26",
+            "c38de0db"
+          ],
+          "choices": [
+            {
+              "content": "It can be a solution to the so-called 'Cold Start' problem.",
+              "key": "920e1e26"
+            },
+            {
+              "content": "It ensures long term 'stickiness' of your platform.",
+              "key": "5de3d8ea"
+            },
+            {
+              "content": "It is more suitable for platforms with passive user participation than those needing active user participation.",
+              "key": "c38de0db"
+            }
+          ],
+          "content": "Which of the following are true about using token incentives for early adopters of your service?",
+          "type": "MultipleChoice",
+          "hint": "NoHint",
+          "explanation": "No Explanation",
+          "uuid": "5fbe8067-82bf-4c6f-b3bd-f70d51c58890"
+        },
+        {
+          "answerKeys": [
+            "3b9e4b73"
+          ],
+          "choices": [
+            {
+              "content": "Airdropping tokens to users of a new NFT marketplace when new traders/users do not provide additional direct value to the existing users.",
+              "key": "4e499cfe"
+            },
+            {
+              "content": "Using tokens to compensate early DeFi liquidity providers for potential impermanent losses, as the fees from an increasing user base can eventually take over as the primary revenue source for liquidity providers in the long term.",
+              "key": "3b9e4b73"
+            },
+            {
+              "content": "Giving out tokens to offset gas fees on a DeFi platform when gas fees will only continue to increase in the future.",
+              "key": "e7e4548b"
+            }
+          ],
+          "content": "In which of the following are examples of good usage of token incentives to kick off adoption?\n",
+          "type": "MultipleChoice",
+          "hint": "NoHint",
+          "explanation": "No Explanation",
+          "uuid": "6b79182c-2dd1-4638-9858-51c1ba2bb3b9"
+        }
+      ],
       "readings": [
         {
-          "uuid": "d28e35d6-d0e5-4bbc-a564-aa37672af9ac",
-          "shortTitle": "Network Effects",
-          "details": "Web3 protocols typically operate as multi-sided platforms connecting different types of users. Their growth potential typically depends on their ability to create network effects. In this lesson, you will learn how to study your market structure and your different user types in order to create a network effects strategy.\n\nIn this link you can access the materials for the lesson: \nhttps://docs.google.com/document/d/1pcl1Mbw8EzjkE_HzCbEfoBAH2-EeZd3kE4gP1xozaGo/edit\n\nIn this link, you can download the slide deck for the video:\nhttps://www.slideshare.net/FedericoAst/how-to-build-in-web3-lesson-3-network-effects\n\nWant to build on Web3? Apply to the Kleros Incubator here!\nhttps://kleros.io/incubator/\n\n\n#### Further reading\n- Andrew Chen. [The Cold Start Problem: How to Start and Scale Network Effects](https://a16z.com/book/the-cold-start-problem/).\n- Andrew Chen, Paul Davidson, Alexis Ohanian, Das Rush. [Kickstarting Network Effects](https://future.com/podcasts/kickstarting-network-effects/). The a16z Podcast.\n- Casey Johnston. [Reddit founders made hundreds of fake profiles so site looked popular](https://arstechnica.com/information-technology/2012/06/reddit-founders-made-hundreds-of-fake-profiles-so-site-looked-popular/). ArsTechnica.\n- Chris Dixon. [The Web3 Playbook: Using Token Incentives to Bootstrap New Networks](https://future.com/the-web3-playbook-using-token-incentives-to-bootstrap-new-networks/). Future.\n- Chris Dixon. [Crypto Tokens: A Breakthrough in Open Network Design](https://cdixon.org/2017/05/27/crypto-tokens-a-breakthrough-in-open-network-design). Chris Dixon Blog.\n- Feng Zhu and Marco Iansiti. [Why Some Platforms Thrive and Others Don’t](https://hbr.org/2019/01/why-some-platforms-thrive-and-others-dont). Harvard Business Review.\n- Fred Ehrsam. [Blockchain Tokens and the dawn of the Decentralized Business Model](https://fehrsam.xyz/blog/blockchain-tokens-and-the-dawn-of-the-decentralized-business-model). Fred Ehrsam Blog.\n- Michael Blanding. [How Uber, Airbnb, and Etsy Attracted Their First 1,000 Customers](https://hbswk.hbs.edu/item/how-uber-airbnb-and-etsy-attracted-their-first-1-000-customers). Harvard Business School Working Knowledge.\n- Sameer Singh. [Bootstrapping Web3 Networks: The Limitations of Token Incentives](https://breadcrumb.vc/bootstrapping-web3-networks-the-limitations-of-token-incentives-4b57fa54486c). Breadcrumb.vc\n- Tanai Jaipuria. [Network effects and token incentives](https://tanay.substack.com/p/network-effects-and-token-incentives).\n",
+          "uuid": "fb61987d-8d4b-461c-97f9-e8d5a265f6af",
           "title": "Lesson 3 - Network Effects",
+          "shortTitle": "Network Effects",
+          "details": "Web3 protocols typically operate as multi-sided platforms connecting different types of users. Their growth potential typically depends on their ability to create network effects. In this lesson, you will learn how to study your market structure and your different user types in order to create a network effects strategy.\n\nIn this link you can access the materials for the lesson: \nhttps://docs.google.com/document/d/1pcl1Mbw8EzjkE_HzCbEfoBAH2-EeZd3kE4gP1xozaGo/edit\n\nIn this link, you can download the slide deck for the video:\nhttps://www.slideshare.net/FedericoAst/how-to-build-in-web3-lesson-3-network-effects\n\nWant to build on Web3? Apply to the Kleros Incubator here!\nhttps://kleros.io/incubator/\n",
           "type": "YoutubeVideo",
           "url": "https://www.youtube.com/watch?v=nA2Aq3XEY2A",
           "subTopics": []
         }
       ],
-      "summaries": [],
-      "questions": []
+      "summaries": []
     }
-  ],
-  "uuid": "how-to-build-in-web3"
+  ]
 }
