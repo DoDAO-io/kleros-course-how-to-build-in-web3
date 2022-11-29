@@ -20,3 +20,4 @@ https://kleros.io/incubator/
 
 
 
+[Questions](./../../generated/questions/strategy-design.md)

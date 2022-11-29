@@ -18,4 +18,4 @@ This is the course header. This will be added on top of every page. Go to [DoDAO
  | S.No        | Title       | Contents   | Links      | Status      | Completion Week |
  | ----------- | ----------- |----------- |----------- | ----------- | ----------- |
  | 1      | The Blockchain Revolution | | [Details](generated/topics/the-blockchain-revolution.md) <br/>  <br/>  <br/> [Reading List](generated/readings/the-blockchain-revolution.md) <br/> [Questions](generated/questions/the-blockchain-revolution.md) | undefined | undefined |
- | 2      | Strategy Design | | [Details](generated/topics/strategy-design.md) <br/>  <br/>  <br/> [Reading List](generated/readings/strategy-design.md) <br/>  | undefined | undefined | 
+ | 2      | Strategy Design | | [Details](generated/topics/strategy-design.md) <br/>  <br/>  <br/> [Reading List](generated/readings/strategy-design.md) <br/> [Questions](generated/questions/strategy-design.md) | undefined | undefined | 
