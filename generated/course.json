@@ -292,7 +292,17 @@
       "title": "Network Effects",
       "details": "Web3 protocols typically operate as multi-sided platforms connecting different types of users. Their growth potential typically depends on their ability to create network effects. In this lesson, you will learn how to study your market structure and your different user types in order to create a network effects strategy.",
       "explanations": [],
-      "readings": [],
+      "readings": [
+        {
+          "uuid": "d28e35d6-d0e5-4bbc-a564-aa37672af9ac",
+          "shortTitle": "Network Effects",
+          "details": "Web3 protocols typically operate as multi-sided platforms connecting different types of users. Their growth potential typically depends on their ability to create network effects. In this lesson, you will learn how to study your market structure and your different user types in order to create a network effects strategy.\n\nIn this link you can access the materials for the lesson: \nhttps://docs.google.com/document/d/1pcl1Mbw8EzjkE_HzCbEfoBAH2-EeZd3kE4gP1xozaGo/edit\n\nIn this link, you can download the slide deck for the video:\nhttps://www.slideshare.net/FedericoAst/how-to-build-in-web3-lesson-3-network-effects\n\nWant to build on Web3? Apply to the Kleros Incubator here!\nhttps://kleros.io/incubator/\n",
+          "title": "Lesson 3 - Network Effects",
+          "type": "YoutubeVideo",
+          "url": "https://www.youtube.com/watch?v=nA2Aq3XEY2A",
+          "subTopics": []
+        }
+      ],
       "summaries": [],
       "questions": []
     }
