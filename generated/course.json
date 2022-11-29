@@ -2,13 +2,12 @@
   "key": "how-to-build-in-web3",
   "title": "How to Build in Web3",
   "summary": "This is a technical course for Builders who look to build in Web3 space.\n",
-  "details": "In this course we cover the following\n1) Chapter 1 - Information about various smart contracts of AAVE\n2) Chapter 2 - How to pull data from Aave which can be used to create analytics applications\n3) Chapter 3 - How to setup a developer environment to interact with Aave's smart contracts\n4) Chapter 4 - Interacting with Aave's Smart Contracts",
+  "details": "In this course we cover the following\n1) Chapter 1 - The Blockchain Revolution\n2) Chapter 2 - Strategy Design\n3) Chapter 3 - Network Effects",
   "duration": "1 - 2 hours",
   "highlights": [
-    "AAVE Smart Contract Introduction",
-    "Fetching AAVE Data",
-    "Developer Environment Setup",
-    "Writing simple UI application on top of AAVE"
+    "Blockchain Introduction",
+    "Strategy Design",
+    "Network Effects"
   ],
   "publishStatus": "Live",
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/courses/DoDAO/DeFi/defi_logo.jpeg",

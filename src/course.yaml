@@ -9,18 +9,11 @@ highlights:
   - Writing simple UI application on top of AAVE
 publishStatus: Live
 thumbnail: https://d31h13bdjwgzxs.cloudfront.net/courses/DoDAO/DeFi/defi_logo.jpeg
-details: >-
+details: |-
   In this course we cover the following
-
-  1) Chapter 1 - Information about various smart contracts of AAVE
-
-  2) Chapter 2 - How to pull data from Aave which can be used to create
-  analytics applications
-
-  3) Chapter 3 - How to setup a developer environment to interact with Aave's
-  smart contracts
-
-  4) Chapter 4 - Interacting with Aave's Smart Contracts
+  1) Chapter 1 - The Blockchain Revolution
+  2) Chapter 2 - Strategy Design
+  3) Chapter 3 - Network Effects
 duration: 1 - 2 hours
 topics:
   - title: The Blockchain Revolution
