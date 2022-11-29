@@ -73,3 +73,11 @@ topics:
       https://kleros.io/incubator/
     readings: strategy-design.yaml
     questions: strategy-design.yaml
+  - key: network-effects
+    title: Network Effects
+    details: >-
+      Web3 protocols typically operate as multi-sided platforms connecting
+      different types of users. Their growth potential typically depends on
+      their ability to create network effects. In this lesson, you will learn
+      how to study your market structure and your different user types in order
+      to create a network effects strategy.
