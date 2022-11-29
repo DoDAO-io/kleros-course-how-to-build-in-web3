@@ -5,10 +5,9 @@
   "details": "In this course we cover the following\n1) Chapter 1 - The Blockchain Revolution\n2) Chapter 2 - Strategy Design\n3) Chapter 3 - Network Effects",
   "duration": "1 - 2 hours",
   "highlights": [
-    "AAVE Smart Contract Introduction",
-    "Fetching AAVE Data",
-    "Developer Environment Setup",
-    "Writing simple UI application on top of AAVE"
+    "The Blockchain Revolution",
+    "Strategy Design",
+    "Network Effects"
   ],
   "publishStatus": "Live",
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmdnS6QTJ2njj5swrox8tPxCFFHoWMvDGWqZfjzAtMzLT6",
@@ -487,5 +486,6 @@
       ],
       "summaries": []
     }
-  ]
+  ],
+  "uuid": "how-to-build-in-web3"
 }
