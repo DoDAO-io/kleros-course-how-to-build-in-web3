@@ -1,20 +1,3 @@
-- uuid: e3e94777-782c-42bb-aff8-4958764ff475
-  type: SingleChoice
-  content: Which event precipitated the rise of Bitcoin and the Blockchain Revolution?
-  hint: NoHint
-  explanation: No Explanation
-  answerKeys:
-    - 5e8cc02e
-  subTopics: []
-  difficultyLevel: Medium
-  choices:
-    - content: The 2000 dot-com crash.
-      key: A
-    - content: The 2008 Global Financial Crisis (aka Great Recession).
-      key: 5e8cc02e
-    - content: The 1929 stock market crash at the start of the Great Depression.
-      key: 8a0d289b
-###
 - answerKeys:
     - 78fbdb75
   choices:
@@ -24,9 +7,7 @@
       key: 78fbdb75
     - content: The 1929 stock market crash at the start of the Great Depression.
       key: 76c13440
-  content: >-
-    Which event precipitated the rise of Bitcoin and the Blockchain
-    Revolution?
+  content: Which event precipitated the rise of Bitcoin and the Blockchain Revolution?
   type: SingleChoice
   hint: NoHint
   explanation: No Explanation
@@ -37,16 +18,16 @@
     - content: They are great for sourcing great music.
       key: 82d0a7af
     - content: >-
-        They draw us in with free services but take advantage of our
-        personal data and intercepts our transactions.
+        They draw us in with free services but take advantage of our personal
+        data and intercepts our transactions.
       key: b3a61533
     - content: >-
         They sound off alarms when malicious activities happen on their
         networks.
       key: 93014af6
   content: >-
-    Why are Web2 platforms referred to as 'siren servers' by Jaron Lanier
-    in his book 'Who Owns the Future'?
+    Why are Web2 platforms referred to as 'siren servers' by Jaron Lanier in his
+    book 'Who Owns the Future'?
   type: SingleChoice
   hint: NoHint
   explanation: No Explanation
@@ -58,25 +39,24 @@
   choices:
     - content: >-
         Protocols become more 'dense' as they are built on by other
-        protocol/projects, and will tend to settle towards the bottom of
-        the Protocol Sink.
+        protocol/projects, and will tend to settle towards the bottom of the
+        Protocol Sink.
       key: 74464d6d
     - content: >-
-        The more trustless, permissionless and credibly neutral a protocol
-        is the further it can scale to become a global platform.
+        The more trustless, permissionless and credibly neutral a protocol is
+        the further it can scale to become a global platform.
       key: bbbf76d6
     - content: >-
-        The thesis predicts that Web3 protocols will never reach the scale
-        of their Web2 counterparts.
+        The thesis predicts that Web3 protocols will never reach the scale of
+        their Web2 counterparts.
       key: d75bb176
     - content: >-
-        The resting place of a protocol in the Protocol Sink is determined
-        by its utility and surface area for attack.
+        The resting place of a protocol in the Protocol Sink is determined by
+        its utility and surface area for attack.
       key: e5d02553
   content: >-
-    Which of the following describes the Protocol Sink Thesis for
-    crypto-systems proposed by Ryan Sean Adam? Select all that are
-    correct.
+    Which of the following describes the Protocol Sink Thesis for crypto-systems
+    proposed by Ryan Sean Adam? Select all that are correct.
   hint: NoHint
   explanation: No Explanation
   type: MultipleChoice
@@ -100,21 +80,21 @@
     - b0402f0b
   choices:
     - content: >-
-        There is less supplier risk, as services built in a decentralized
-        manner are uncensorable and more transparent.
+        There is less supplier risk, as services built in a decentralized manner
+        are uncensorable and more transparent.
       key: b0402f0b
     - content: >-
-        The response time of decentralized API services are definitely
-        better than Web2 alternatives.
+        The response time of decentralized API services are definitely better
+        than Web2 alternatives.
       key: 3999d7e4
     - content: >-
-        The cost and business models of the suppliers are more attuned
-        towards the interests of the customers, and are less likely to
-        tend towards rent-seeking behaviour as they scale.
+        The cost and business models of the suppliers are more attuned towards
+        the interests of the customers, and are less likely to tend towards
+        rent-seeking behaviour as they scale.
       key: 6fe5422a
   content: >-
-    What are some benefits of building on Web3 solutions instead of their
-    Web2 counterparts?
+    What are some benefits of building on Web3 solutions instead of their Web2
+    counterparts?
   type: MultipleChoice
   hint: NoHint
   explanation: No Explanation
@@ -127,12 +107,12 @@
         centralized entity.
       key: 1bf195d0
     - content: >-
-        Anything can be considered credibly neutral if it does not extract
-        rent and payments from its users.
+        Anything can be considered credibly neutral if it does not extract rent
+        and payments from its users.
       key: 88d74521
     - content: >-
-        A credible neutral protocol is built on rules that doesn't
-        arbitrarily benefit some group of users over others.
+        A credible neutral protocol is built on rules that doesn't arbitrarily
+        benefit some group of users over others.
       key: a76b4b47
   content: What is a credibly neutral protocol?
   type: SingleChoice
