@@ -82,3 +82,8 @@ topics:
       to create a network effects strategy.
     readings: network-effects.yaml
     questions: network-effects.yaml
+  - key: design-for-web3
+    title: Design for Web3
+    details: >-
+      In this lesson, you will learn the key elements and methodologies for
+      UX/UI design in Web3 products.
