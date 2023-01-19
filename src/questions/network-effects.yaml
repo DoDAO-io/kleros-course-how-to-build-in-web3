@@ -1,21 +1,23 @@
-- answerKeys:
+- uuid: 71c5307a-fbca-40bb-a548-01400140e95f
+  type: MultipleChoice
+  content: Why is it important to understand network effects in Web3?
+  hint: NoHint
+  explanation: No Explanation
+  answerKeys:
     - dog_or_cat
     - only_dog
     - only_cat
+  subTopics: []
+  difficultyLevel: Medium
   choices:
-    - content: It helps you build products that are resistant to network outages.
-      key: dog_and_cat
-    - content: It helps you develop a growth strategy for your product.
-      key: dog_or_cat
-    - content: >-
+    - key: dog_and_cat
+      content: It helps you build products that are resistant to network outages.
+    - key: dog_or_cat
+      content: It helps you develop a growth strategy for your product.
+    - key: only_dog
+      content: >-
         It helps explain how an early start can help you build a moat that
         protects you against competition.
-      key: only_dog
-  content: Why is it important to understand network effects in Web3?
-  type: MultipleChoice
-  hint: NoHint
-  explanation: No Explanation
-  uuid: 71c5307a-fbca-40bb-a548-01400140e95f
 - answerKeys:
     - 2c74b42b
   choices:
@@ -24,8 +26,8 @@
     - content: The value of a network grows exponentially as more people join.
       key: 2c74b42b
     - content: >-
-        A Metcalfe network will be able to continue to operate even if
-        parts of it are cut off from the rest.
+        A Metcalfe network will be able to continue to operate even if parts of
+        it are cut off from the rest.
       key: '37107021'
   content: What is the Metcalfe's Law in the field of networks?
   type: SingleChoice
@@ -45,8 +47,8 @@
     - content: A social network platform.
       key: 7acfafee
   content: >-
-    Which of these businesses are likely to be able to take advantage of
-    network effects when delivering value to their users?
+    Which of these businesses are likely to be able to take advantage of network
+    effects when delivering value to their users?
   type: MultipleChoice
   hint: NoHint
   explanation: No Explanation
@@ -60,8 +62,8 @@
         globally.
       key: 96d0915f
     - content: >-
-        Ethereum growing as more and more interdependent dApps are built
-        on top of it.
+        Ethereum growing as more and more interdependent dApps are built on top
+        of it.
       key: 38cd14ea
     - content: >-
         Telegram growing in user base as more and more people invite their
@@ -78,17 +80,17 @@
     - 76df13dc
   choices:
     - content: >-
-        Kleros growing in integrations and jury size, as long-time jurors
-        go on to start their own projects to use Kleros, and vice versa.
+        Kleros growing in integrations and jury size, as long-time jurors go on
+        to start their own projects to use Kleros, and vice versa.
       key: 76df13dc
     - content: >-
         YouTube growing in usage due to consumers, advertisers and content
-        producers using it as a platform to consume each other's content
-        and information.
+        producers using it as a platform to consume each other's content and
+        information.
       key: 2044789e
     - content: >-
-        DoorDash being able to offer super fast delivery due to the
-        network of highways available in the United States.
+        DoorDash being able to offer super fast delivery due to the network of
+        highways available in the United States.
       key: a2a68e97
   content: Which of the following are examples of indirect network effects?
   type: MultipleChoice
@@ -104,8 +106,8 @@
     - content: It ensures long term 'stickiness' of your platform.
       key: 5de3d8ea
     - content: >-
-        It is more suitable for platforms with passive user participation
-        than those needing active user participation.
+        It is more suitable for platforms with passive user participation than
+        those needing active user participation.
       key: c38de0db
   content: >-
     Which of the following are true about using token incentives for early
@@ -119,22 +121,22 @@
   choices:
     - content: >-
         Airdropping tokens to users of a new NFT marketplace when new
-        traders/users do not provide additional direct value to the
-        existing users.
+        traders/users do not provide additional direct value to the existing
+        users.
       key: 4e499cfe
     - content: >-
-        Using tokens to compensate early DeFi liquidity providers for
-        potential impermanent losses, as the fees from an increasing user
-        base can eventually take over as the primary revenue source for
-        liquidity providers in the long term.
+        Using tokens to compensate early DeFi liquidity providers for potential
+        impermanent losses, as the fees from an increasing user base can
+        eventually take over as the primary revenue source for liquidity
+        providers in the long term.
       key: 3b9e4b73
     - content: >-
-        Giving out tokens to offset gas fees on a DeFi platform when gas
-        fees will only continue to increase in the future.
+        Giving out tokens to offset gas fees on a DeFi platform when gas fees
+        will only continue to increase in the future.
       key: e7e4548b
   content: >
-    In which of the following are examples of good usage of token
-    incentives to kick off adoption?
+    In which of the following are examples of good usage of token incentives to
+    kick off adoption?
   type: MultipleChoice
   hint: NoHint
   explanation: No Explanation

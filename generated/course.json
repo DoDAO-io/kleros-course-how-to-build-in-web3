@@ -295,11 +295,18 @@
       "explanations": [],
       "questions": [
         {
+          "uuid": "71c5307a-fbca-40bb-a548-01400140e95f",
+          "type": "MultipleChoice",
+          "content": "Why is it important to understand network effects in Web3?",
+          "hint": "NoHint",
+          "explanation": "No Explanation",
           "answerKeys": [
             "dog_or_cat",
             "only_dog",
             "only_cat"
           ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
           "choices": [
             {
               "content": "It helps you build products that are resistant to network outages.",
@@ -313,12 +320,7 @@
               "content": "It helps explain how an early start can help you build a moat that protects you against competition.",
               "key": "only_dog"
             }
-          ],
-          "content": "Why is it important to understand network effects in Web3?",
-          "type": "MultipleChoice",
-          "hint": "NoHint",
-          "explanation": "No Explanation",
-          "uuid": "71c5307a-fbca-40bb-a548-01400140e95f"
+          ]
         },
         {
           "answerKeys": [
