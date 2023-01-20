@@ -494,7 +494,17 @@
       "title": "Design for Web3",
       "details": "abcddddddddddddddddddd",
       "explanations": [],
-      "readings": [],
+      "readings": [
+        {
+          "uuid": "eacd9e36-0caa-43b6-b6e2-d8c5c0ff4a1d",
+          "shortTitle": "aa",
+          "details": "yuftvhghihfghjijnjb vcgfuikmnbvgftui kjhuiygvhbjnkioiuygtf",
+          "title": "abcd",
+          "type": "YoutubeVideo",
+          "url": "https://www.youtube.com/watch?v=7SHwdpAlxtA&list=PLLzuQLM_EexOHp232wxqLqqdRoMPE6_ZW&index=4&ab_channel=Kleros",
+          "subTopics": []
+        }
+      ],
       "summaries": [],
       "questions": []
     }
