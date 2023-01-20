@@ -41,3 +41,25 @@
       key: cfbf1902
     - content: Allowing either party to integrate without the cooperation of the other
       key: e504928d
+- uuid: 84d25774-3d40-40c3-9054-babfd4673342
+  type: SingleChoice
+  content: >
+    How can a company decrease barriers to adoption and increase the chances of
+    breaking into a large market segment?
+  hint: NoHint
+  explanation: ''
+  answerKeys:
+    - 4b4ee2d1
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: By requiring cooperation from both parties for integration
+      key: A
+    - content: >-
+        By focusing on unilateral adoption and making integrations built and
+        giftable
+      key: 4b4ee2d1
+    - content: By only allowing one party to integrate at a time
+      key: '01617146'
+    - content: By focusing on integration within one's own organization
+      key: 87aebfbe
