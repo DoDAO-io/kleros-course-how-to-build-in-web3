@@ -87,6 +87,9 @@ topics:
       to create a network effects strategy.
     readings: network-effects.yaml
     questions: network-effects.yaml
+  - key: design-for-web3
+    title: Design for Web3
+    details: abcddddddddddddddddddd
 courseAdmins: []
 topicConfig:
   showExplanations: false
