@@ -536,6 +536,36 @@
               "key": "e45dd599"
             }
           ]
+        },
+        {
+          "uuid": "cbd4ef79-f332-4b7a-ad86-9ef991128b35",
+          "type": "SingleChoice",
+          "content": "What is the \"jobs to be done\" methodology used in the design process?\n",
+          "hint": "NoHint",
+          "explanation": "",
+          "answerKeys": [
+            "b779d266"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "To identify pain points in the user experience",
+              "key": "A"
+            },
+            {
+              "content": "To classify insights in order of satisfaction and importance",
+              "key": "0972f41a"
+            },
+            {
+              "content": "To understand the outcomes that customers want to achieve with a product",
+              "key": "b779d266"
+            },
+            {
+              "content": "To explore solutions to a problem",
+              "key": "799d18a5"
+            }
+          ]
         }
       ]
     }
