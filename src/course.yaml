@@ -92,6 +92,9 @@ topics:
     details: abcddddddddddddddddddd
     readings: design-for-web3.yaml
     questions: design-for-web3.yaml
+  - key: partnership-development
+    title: Partnership Development
+    details: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 courseAdmins: []
 topicConfig:
   showExplanations: false
