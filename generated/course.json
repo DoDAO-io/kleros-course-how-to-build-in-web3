@@ -768,6 +768,15 @@
           ]
         }
       ]
+    },
+    {
+      "key": "scaling-operations",
+      "title": "Scaling Operations",
+      "details": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "explanations": [],
+      "readings": [],
+      "summaries": [],
+      "questions": []
     }
   ],
   "uuid": "how-to-build-in-web3",

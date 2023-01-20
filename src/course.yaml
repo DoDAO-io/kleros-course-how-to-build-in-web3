@@ -97,6 +97,9 @@ topics:
     details: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
     readings: partnership-development.yaml
     questions: partnership-development.yaml
+  - key: scaling-operations
+    title: Scaling Operations
+    details: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 courseAdmins: []
 topicConfig:
   showExplanations: false
