@@ -63,3 +63,30 @@
       key: '01617146'
     - content: By focusing on integration within one's own organization
       key: 87aebfbe
+- uuid: 1377af77-ba9c-44e1-bfef-7307b6a525ff
+  type: SingleChoice
+  content: >
+    What is the main difference between inter-organizational and
+    intra-organizational integrations?
+  hint: NoHint
+  explanation: ''
+  answerKeys:
+    - d319d7dc
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: >-
+        Inter-organizational integrations require cooperation from both parties,
+        while intra-organizational integrations do not
+      key: A
+    - content: >-
+        Inter-organizational integrations are focused on external partners,
+        while intra-organizational integrations focus on internal stakeholders
+      key: d319d7dc
+    - content: ' Inter-organizational integrations are more complex, while intra-organizational integrations are simpler'
+      key: 572dfed8
+    - content: >-
+        Inter-organizational integrations are focused on open-source projects,
+        while intra-organizational integrations are focused on proprietary
+        projects
+      key: 3126228d
