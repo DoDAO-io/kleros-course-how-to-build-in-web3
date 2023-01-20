@@ -736,6 +736,36 @@
               "key": "3126228d"
             }
           ]
+        },
+        {
+          "uuid": "6046aa11-f823-4dcb-973d-ad4e3dbbb3ab",
+          "type": "SingleChoice",
+          "content": "How does progressive enhancement help with cross-selling and upselling in integration design?\n",
+          "hint": "NoHint",
+          "explanation": "",
+          "answerKeys": [
+            "7c3b08b6"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "It forces customers to purchase all features of a product at once",
+              "key": "A"
+            },
+            {
+              "content": "It limits the number of features a customer can use",
+              "key": "1dd171f9"
+            },
+            {
+              "content": "It allows customers to start with any subset of your products, and upgrade their integration with a product as they see fit",
+              "key": "7c3b08b6"
+            },
+            {
+              "content": "It is not related to cross-selling and upselling",
+              "key": "301c25c7"
+            }
+          ]
         }
       ]
     }
