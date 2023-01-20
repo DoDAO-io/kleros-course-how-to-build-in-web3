@@ -95,6 +95,7 @@ topics:
   - key: partnership-development
     title: Partnership Development
     details: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    readings: partnership-development.yaml
 courseAdmins: []
 topicConfig:
   showExplanations: false
