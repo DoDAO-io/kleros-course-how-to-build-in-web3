@@ -22,3 +22,22 @@
       key: 738cc049
     - content: There is no specific distribution of prospects in the B2B world
       key: 8be2ad51
+- uuid: dddf1d5b-991b-48bf-bd7d-277482e045fd
+  type: SingleChoice
+  content: |
+    Which statement holds true about the concept of unilateral adoption?
+  hint: NoHint
+  explanation: ''
+  answerKeys:
+    - e504928d
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Requiring cooperation from both parties for integration
+      key: A
+    - content: Only allowing one party to integrate at a time
+      key: 7e95e773
+    - content: Focusing on integration within one's own organization
+      key: cfbf1902
+    - content: Allowing either party to integrate without the cooperation of the other
+      key: e504928d
