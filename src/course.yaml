@@ -96,6 +96,7 @@ topics:
     title: Partnership Development
     details: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
     readings: partnership-development.yaml
+    questions: partnership-development.yaml
 courseAdmins: []
 topicConfig:
   showExplanations: false

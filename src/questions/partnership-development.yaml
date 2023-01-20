@@ -1,0 +1,24 @@
+- uuid: da09d340-1a4c-478d-93bd-761acb651ef2
+  type: SingleChoice
+  content: >-
+    What is the typical distribution of prospects in the B2B world according to
+    the presentation?
+  hint: NoHint
+  explanation: ''
+  answerKeys:
+    - A
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: >-
+        Most prospects are small and agile, but there are a few large companies
+        that represent over 50% of your addressable market
+      key: A
+    - content: >-
+        Most prospects are large and hard to approach, but there are a few small
+        and agile companies
+      key: 333fee22
+    - content: The majority of prospects are medium-sized and easy to approach
+      key: 738cc049
+    - content: There is no specific distribution of prospects in the B2B world
+      key: 8be2ad51
