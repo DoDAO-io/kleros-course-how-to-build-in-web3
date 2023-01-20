@@ -1,0 +1,19 @@
+- uuid: 49c2d626-3f46-4a6b-853a-f2e263fc7d47
+  type: SingleChoice
+  content: |
+    What is the design process described in the tutorial?
+  hint: NoHint
+  explanation: ''
+  answerKeys:
+    - 0d954ed0
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: Linear and user-centric
+      key: A
+    - content: Linear and technology-centric
+      key: '23718144'
+    - content: Cyclical and user-centric
+      key: 0d954ed0
+    - content: Cyclical and technology-centric
+      key: e45dd599

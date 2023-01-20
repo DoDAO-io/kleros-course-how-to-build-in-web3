@@ -91,6 +91,7 @@ topics:
     title: Design for Web3
     details: abcddddddddddddddddddd
     readings: design-for-web3.yaml
+    questions: design-for-web3.yaml
 courseAdmins: []
 topicConfig:
   showExplanations: false

@@ -506,7 +506,38 @@
         }
       ],
       "summaries": [],
-      "questions": []
+      "questions": [
+        {
+          "uuid": "ee9eec30-8c29-42dd-9bcf-ef15acabf7a7",
+          "type": "SingleChoice",
+          "content": "What is the design process described in the tutorial?\n",
+          "hint": "NoHint",
+          "explanation": "",
+          "answerKeys": [
+            "0d954ed0"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Linear and user-centric",
+              "key": "A"
+            },
+            {
+              "content": "Linear and technology-centric",
+              "key": "23718144"
+            },
+            {
+              "content": "Cyclical and user-centric",
+              "key": "0d954ed0"
+            },
+            {
+              "content": "Cyclical and technology-centric",
+              "key": "e45dd599"
+            }
+          ]
+        }
+      ]
     }
   ],
   "uuid": "how-to-build-in-web3",
