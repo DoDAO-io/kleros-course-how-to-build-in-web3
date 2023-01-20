@@ -6,14 +6,16 @@ highlights:
   - The Blockchain Revolution
   - Strategy Design
   - Network Effects
+  - Partnership Development
 publishStatus: Live
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmdnS6QTJ2njj5swrox8tPxCFFHoWMvDGWqZfjzAtMzLT6
 details: |-
-  In this course we cover the following
+  In this course, we cover the following
   1) Chapter 1 - The Blockchain Revolution
   2) Chapter 2 - Strategy Design
   3) Chapter 3 - Network Effects
+  6) Chapter 6 - Partnership Development
 duration: 1 - 2 hours
 topics:
   - title: The Blockchain Revolution
@@ -82,3 +84,7 @@ topics:
       to create a network effects strategy.
     readings: network-effects.yaml
     questions: network-effects.yaml
+courseAdmins: []
+topicConfig:
+  showExplanations: false
+  showHints: false

@@ -2,12 +2,13 @@
   "key": "how-to-build-in-web3",
   "title": "How to Build in Web3",
   "summary": "This is a technical course for Builders who look to build in Web3 space.\n",
-  "details": "In this course we cover the following\n1) Chapter 1 - The Blockchain Revolution\n2) Chapter 2 - Strategy Design\n3) Chapter 3 - Network Effects",
+  "details": "In this course, we cover the following\n1) Chapter 1 - The Blockchain Revolution\n2) Chapter 2 - Strategy Design\n3) Chapter 3 - Network Effects\n6) Chapter 6 - Partnership Development",
   "duration": "1 - 2 hours",
   "highlights": [
     "The Blockchain Revolution",
     "Strategy Design",
-    "Network Effects"
+    "Network Effects",
+    "Partnership Development"
   ],
   "publishStatus": "Live",
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmdnS6QTJ2njj5swrox8tPxCFFHoWMvDGWqZfjzAtMzLT6",
@@ -489,5 +490,10 @@
       "summaries": []
     }
   ],
-  "uuid": "how-to-build-in-web3"
+  "uuid": "how-to-build-in-web3",
+  "courseAdmins": [],
+  "topicConfig": {
+    "showExplanations": false,
+    "showHints": false
+  }
 }
