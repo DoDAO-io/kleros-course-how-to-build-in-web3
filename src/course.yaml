@@ -77,6 +77,11 @@ topics:
       https://kleros.io/incubator/
     readings: strategy-design.yaml
     questions: strategy-design.yaml
+  - key: design-for-web3
+    title: Design for Web3
+    details: abcddddddddddddddddddd
+    readings: design-for-web3.yaml
+    questions: design-for-web3.yaml
   - key: network-effects
     title: Network Effects
     details: >-
@@ -87,11 +92,6 @@ topics:
       to create a network effects strategy.
     readings: network-effects.yaml
     questions: network-effects.yaml
-  - key: design-for-web3
-    title: Design for Web3
-    details: abcddddddddddddddddddd
-    readings: design-for-web3.yaml
-    questions: design-for-web3.yaml
 courseAdmins: []
 topicConfig:
   showExplanations: false
