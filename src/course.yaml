@@ -88,10 +88,10 @@ topics:
     readings: network-effects.yaml
     questions: network-effects.yaml
   - key: design-for-web3
-    title: Design for Web3
+    title: Mechanism Design
     details: abcddddddddddddddddddd
   - key: design-for-web3
-    title: Design for Web3
+    title: Mechanism Design
     details: abcddddddddddddddddddd
 courseAdmins: []
 topicConfig:
