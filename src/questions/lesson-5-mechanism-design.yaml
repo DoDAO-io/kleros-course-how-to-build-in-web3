@@ -1,0 +1,21 @@
+- uuid: 3c63d7d7-285d-4cc2-8c75-608829aff22c
+  type: SingleChoice
+  content: |
+    What is the idea behind 'griefing factors'?
+  hint: NoHint
+  explanation: ''
+  answerKeys:
+    - 7930d811
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: The profit that an attacker makes by harming others
+      key: A
+    - content: The cost that an attacker takes on to harm the platform
+      key: 48a46076
+    - content: >-
+        The harm that an attacker does to others in the platform in terms of the
+        cost they do to themselves
+      key: 7930d811
+    - content: The delay caused by an attacker on the platform
+      key: 9dee2e8e

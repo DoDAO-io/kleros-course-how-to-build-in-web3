@@ -927,7 +927,38 @@
         }
       ],
       "summaries": [],
-      "questions": []
+      "questions": [
+        {
+          "uuid": "d6f46945-b61a-4ce0-99d4-0ba6c93a43ac",
+          "type": "SingleChoice",
+          "content": "What is the idea behind 'griefing factors'?\n",
+          "hint": "NoHint",
+          "explanation": "",
+          "answerKeys": [
+            "7930d811"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "The profit that an attacker makes by harming others",
+              "key": "A"
+            },
+            {
+              "content": "The cost that an attacker takes on to harm the platform",
+              "key": "48a46076"
+            },
+            {
+              "content": "The harm that an attacker does to others in the platform in terms of the cost they do to themselves",
+              "key": "7930d811"
+            },
+            {
+              "content": "The delay caused by an attacker on the platform",
+              "key": "9dee2e8e"
+            }
+          ]
+        }
+      ]
     }
   ],
   "uuid": "how-to-build-in-web3",
