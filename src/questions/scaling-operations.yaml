@@ -17,3 +17,26 @@
       key: ffef98eb
     - content: People, processes, and tools
       key: c6728c42
+- uuid: bf7771b0-abb5-4ef0-ac9f-255fb523621c
+  type: SingleChoice
+  content: |
+    What is the Production Possibility Frontier?
+  hint: NoHint
+  explanation: ''
+  answerKeys:
+    - dedcb031
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: >-
+        A concept that talks about the maximum efficiency and redundancy of an
+        organization
+      key: A
+    - content: A concept that talks about the financial performance of an organization
+      key: c826ea37
+    - content: >-
+        A concept that talks about the limitations to the production of an
+        organization
+      key: dedcb031
+    - content: A  concept that talks about the scalability of an organization
+      key: 65ed73bd
