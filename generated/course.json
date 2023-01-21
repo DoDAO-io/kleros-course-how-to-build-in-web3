@@ -877,6 +877,36 @@
               "key": "f250ba82"
             }
           ]
+        },
+        {
+          "uuid": "64991669-b7fa-4ac1-9eaf-2b01be6dd1a9",
+          "type": "SingleChoice",
+          "content": "Which of the following cannot be a way to increase Efficiency?\n",
+          "hint": "NoHint",
+          "explanation": "",
+          "answerKeys": [
+            "236f0c7e"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Encourage more self-sufficiency",
+              "key": "A"
+            },
+            {
+              "content": "Allow more self-determination ",
+              "key": "c0c62453"
+            },
+            {
+              "content": "Hire more people",
+              "key": "236f0c7e"
+            },
+            {
+              "content": "Outsource non-essential functions",
+              "key": "ae676d08"
+            }
+          ]
         }
       ]
     }
