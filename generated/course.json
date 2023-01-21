@@ -770,6 +770,146 @@
       ]
     },
     {
+      "key": "lesson-5-mechanism-design",
+      "title": "Mechanism Design",
+      "details": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "explanations": [],
+      "readings": [
+        {
+          "uuid": "2720e963-123f-4367-b25a-fd3c7292422e",
+          "shortTitle": "Mechanism Design",
+          "details": "In this tutorial, William George shares valuable insights on crypto economics and mechanism design that can be implemented in your web3 projects for optimal success.\n",
+          "title": "Lesson 5 - Mechanism Design",
+          "type": "YoutubeVideo",
+          "url": "https://www.youtube.com/watch?v=lRLfYTHl4VY&list=PLLzuQLM_EexOHp232wxqLqqdRoMPE6_ZW&index=5&ab_channel=Kleros",
+          "subTopics": []
+        }
+      ],
+      "summaries": [],
+      "questions": [
+        {
+          "uuid": "d6f46945-b61a-4ce0-99d4-0ba6c93a43ac",
+          "type": "SingleChoice",
+          "content": "What is the idea behind 'griefing factors'?\n",
+          "hint": "NoHint",
+          "explanation": "",
+          "answerKeys": [
+            "7930d811"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "The profit that an attacker makes by harming others",
+              "key": "A"
+            },
+            {
+              "content": "The cost that an attacker takes on to harm the platform",
+              "key": "48a46076"
+            },
+            {
+              "content": "The harm that an attacker does to others in the platform in terms of the cost they do to themselves",
+              "key": "7930d811"
+            },
+            {
+              "content": "The delay caused by an attacker on the platform",
+              "key": "9dee2e8e"
+            }
+          ]
+        },
+        {
+          "uuid": "b4d7b9cb-a6be-425a-964e-c96e438efb3a",
+          "type": "SingleChoice",
+          "content": "What is the problem of front running in a blockchain platform?\n",
+          "hint": "NoHint",
+          "explanation": "",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Attackers manipulate applications by having their transactions confirmed ahead of those of other actors",
+              "key": "A"
+            },
+            {
+              "content": "Users can double spend using the same transaction",
+              "key": "1e90f50f"
+            },
+            {
+              "content": "Miners can collude to manipulate the blockchain",
+              "key": "9abd0cdd"
+            },
+            {
+              "content": "Transactions can be delayed due to network congestion",
+              "key": "5e8bc3dc"
+            }
+          ]
+        },
+        {
+          "uuid": "a0c6a652-a666-40d8-91ff-3a0858c066db",
+          "type": "SingleChoice",
+          "content": "What is a potential drawback of using a time-weighted average as an oracle?\n",
+          "hint": "NoHint",
+          "explanation": "",
+          "answerKeys": [
+            "bb543915"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "It may not be accurate enough",
+              "key": "A"
+            },
+            {
+              "content": "It may be slow to update to new information",
+              "key": "bb543915"
+            },
+            {
+              "content": "It may be too expensive",
+              "key": "f45c3bdc"
+            },
+            {
+              "content": "It may be too complex to implement",
+              "key": "9828c00c"
+            }
+          ]
+        },
+        {
+          "uuid": "135caacb-18c0-4e5d-9c85-9e09c8e2c1ee",
+          "type": "SingleChoice",
+          "content": "What is the \"Challenger's Dilemma\" in curated lists on blockchain platforms?\n",
+          "hint": "NoHint",
+          "explanation": "",
+          "answerKeys": [
+            "9ce3db13"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "The cycle where many Challengers lead to fewer correct submissions and higher average challenge rewards",
+              "key": "A"
+            },
+            {
+              "content": "The cycle where fewer Challengers leads to more incorrect submissions and higher average challenge rewards",
+              "key": "9ce3db13"
+            },
+            {
+              "content": "The lack of incentives for Challengers to flag incorrect submissions",
+              "key": "e89e376d"
+            },
+            {
+              "content": "The difficulty in determining which submissions are incorrect",
+              "key": "c0c585ac"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "key": "scaling-operations",
       "title": "Scaling Operations",
       "details": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
@@ -905,146 +1045,6 @@
             {
               "content": "Outsource non-essential functions",
               "key": "ae676d08"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "key": "lesson-5-mechanism-design",
-      "title": "Mechanism Design",
-      "details": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-      "explanations": [],
-      "readings": [
-        {
-          "uuid": "2720e963-123f-4367-b25a-fd3c7292422e",
-          "shortTitle": "Mechanism Design",
-          "details": "In this tutorial, William George shares valuable insights on crypto economics and mechanism design that can be implemented in your web3 projects for optimal success.\n",
-          "title": "Lesson 5 - Mechanism Design",
-          "type": "YoutubeVideo",
-          "url": "https://www.youtube.com/watch?v=lRLfYTHl4VY&list=PLLzuQLM_EexOHp232wxqLqqdRoMPE6_ZW&index=5&ab_channel=Kleros",
-          "subTopics": []
-        }
-      ],
-      "summaries": [],
-      "questions": [
-        {
-          "uuid": "d6f46945-b61a-4ce0-99d4-0ba6c93a43ac",
-          "type": "SingleChoice",
-          "content": "What is the idea behind 'griefing factors'?\n",
-          "hint": "NoHint",
-          "explanation": "",
-          "answerKeys": [
-            "7930d811"
-          ],
-          "subTopics": [],
-          "difficultyLevel": "Medium",
-          "choices": [
-            {
-              "content": "The profit that an attacker makes by harming others",
-              "key": "A"
-            },
-            {
-              "content": "The cost that an attacker takes on to harm the platform",
-              "key": "48a46076"
-            },
-            {
-              "content": "The harm that an attacker does to others in the platform in terms of the cost they do to themselves",
-              "key": "7930d811"
-            },
-            {
-              "content": "The delay caused by an attacker on the platform",
-              "key": "9dee2e8e"
-            }
-          ]
-        },
-        {
-          "uuid": "b4d7b9cb-a6be-425a-964e-c96e438efb3a",
-          "type": "SingleChoice",
-          "content": "What is the problem of front running in a blockchain platform?\n",
-          "hint": "NoHint",
-          "explanation": "",
-          "answerKeys": [
-            "A"
-          ],
-          "subTopics": [],
-          "difficultyLevel": "Medium",
-          "choices": [
-            {
-              "content": "Attackers manipulate applications by having their transactions confirmed ahead of those of other actors",
-              "key": "A"
-            },
-            {
-              "content": "Users can double spend using the same transaction",
-              "key": "1e90f50f"
-            },
-            {
-              "content": "Miners can collude to manipulate the blockchain",
-              "key": "9abd0cdd"
-            },
-            {
-              "content": "Transactions can be delayed due to network congestion",
-              "key": "5e8bc3dc"
-            }
-          ]
-        },
-        {
-          "uuid": "a0c6a652-a666-40d8-91ff-3a0858c066db",
-          "type": "SingleChoice",
-          "content": "What is a potential drawback of using a time-weighted average as an oracle?\n",
-          "hint": "NoHint",
-          "explanation": "",
-          "answerKeys": [
-            "bb543915"
-          ],
-          "subTopics": [],
-          "difficultyLevel": "Medium",
-          "choices": [
-            {
-              "content": "It may not be accurate enough",
-              "key": "A"
-            },
-            {
-              "content": "It may be slow to update to new information",
-              "key": "bb543915"
-            },
-            {
-              "content": "It may be too expensive",
-              "key": "f45c3bdc"
-            },
-            {
-              "content": "It may be too complex to implement",
-              "key": "9828c00c"
-            }
-          ]
-        },
-        {
-          "uuid": "135caacb-18c0-4e5d-9c85-9e09c8e2c1ee",
-          "type": "SingleChoice",
-          "content": "What is the \"Challenger's Dilemma\" in curated lists on blockchain platforms?\n",
-          "hint": "NoHint",
-          "explanation": "",
-          "answerKeys": [
-            "9ce3db13"
-          ],
-          "subTopics": [],
-          "difficultyLevel": "Medium",
-          "choices": [
-            {
-              "content": "The cycle where many Challengers lead to fewer correct submissions and higher average challenge rewards",
-              "key": "A"
-            },
-            {
-              "content": "The cycle where fewer Challengers leads to more incorrect submissions and higher average challenge rewards",
-              "key": "9ce3db13"
-            },
-            {
-              "content": "The lack of incentives for Challengers to flag incorrect submissions",
-              "key": "e89e376d"
-            },
-            {
-              "content": "The difficulty in determining which submissions are incorrect",
-              "key": "c0c585ac"
             }
           ]
         }

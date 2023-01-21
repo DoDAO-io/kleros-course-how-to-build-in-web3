@@ -97,16 +97,16 @@ topics:
     details: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
     readings: partnership-development.yaml
     questions: partnership-development.yaml
-  - key: scaling-operations
-    title: Scaling Operations
-    details: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-    readings: scaling-operations.yaml
-    questions: scaling-operations.yaml
   - key: lesson-5-mechanism-design
     title: Mechanism Design
     details: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
     readings: lesson-5-mechanism-design.yaml
     questions: lesson-5-mechanism-design.yaml
+  - key: scaling-operations
+    title: Scaling Operations
+    details: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    readings: scaling-operations.yaml
+    questions: scaling-operations.yaml
 courseAdmins: []
 topicConfig:
   showExplanations: false
