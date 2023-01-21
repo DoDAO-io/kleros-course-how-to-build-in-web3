@@ -40,3 +40,22 @@
       key: 9abd0cdd
     - content: Transactions can be delayed due to network congestion
       key: 5e8bc3dc
+- uuid: a0c6a652-a666-40d8-91ff-3a0858c066db
+  type: SingleChoice
+  content: |
+    What is a potential drawback of using a time-weighted average as an oracle?
+  hint: NoHint
+  explanation: ''
+  answerKeys:
+    - bb543915
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: It may not be accurate enough
+      key: A
+    - content: It may be slow to update to new information
+      key: bb543915
+    - content: It may be too expensive
+      key: f45c3bdc
+    - content: It may be too complex to implement
+      key: 9828c00c
