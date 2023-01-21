@@ -19,3 +19,24 @@
       key: 7930d811
     - content: The delay caused by an attacker on the platform
       key: 9dee2e8e
+- uuid: b4d7b9cb-a6be-425a-964e-c96e438efb3a
+  type: SingleChoice
+  content: |
+    What is the problem of front running in a blockchain platform?
+  hint: NoHint
+  explanation: ''
+  answerKeys:
+    - A
+  subTopics: []
+  difficultyLevel: Medium
+  choices:
+    - content: >-
+        Attackers manipulate applications by having their transactions confirmed
+        ahead of those of other actors
+      key: A
+    - content: Users can double spend using the same transaction
+      key: 1e90f50f
+    - content: Miners can collude to manipulate the blockchain
+      key: 9abd0cdd
+    - content: Transactions can be delayed due to network congestion
+      key: 5e8bc3dc
