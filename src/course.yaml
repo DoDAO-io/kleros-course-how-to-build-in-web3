@@ -101,6 +101,7 @@ topics:
     title: Scaling Operations
     details: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
     readings: scaling-operations.yaml
+    questions: scaling-operations.yaml
 courseAdmins: []
 topicConfig:
   showExplanations: false

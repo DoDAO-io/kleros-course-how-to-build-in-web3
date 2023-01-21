@@ -786,7 +786,38 @@
         }
       ],
       "summaries": [],
-      "questions": []
+      "questions": [
+        {
+          "uuid": "a790961b-20d1-4b24-8461-cca53ae45545",
+          "type": "SingleChoice",
+          "content": "What are the three constants of operations?\n",
+          "hint": "NoHint",
+          "explanation": "",
+          "answerKeys": [
+            "c6728c42"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": " Efficiency, redundancy, and scalability",
+              "key": "A"
+            },
+            {
+              "content": "Product development, marketing, and customer support",
+              "key": "4ab0d1bf"
+            },
+            {
+              "content": "Sales, finance, and human resources",
+              "key": "ffef98eb"
+            },
+            {
+              "content": "People, processes, and tools",
+              "key": "c6728c42"
+            }
+          ]
+        }
+      ]
     }
   ],
   "uuid": "how-to-build-in-web3",
