@@ -915,7 +915,17 @@
       "title": "Mechanism Design",
       "details": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
       "explanations": [],
-      "readings": [],
+      "readings": [
+        {
+          "uuid": "2720e963-123f-4367-b25a-fd3c7292422e",
+          "shortTitle": "Mechanism Design",
+          "details": "In this tutorial, William George shares valuable insights on crypto economics and mechanism design that can be implemented in your web 3 projects for optimal success.\n",
+          "title": "Lesson 5 - Mechanism Design",
+          "type": "YoutubeVideo",
+          "url": "https://www.youtube.com/watch?v=lRLfYTHl4VY&list=PLLzuQLM_EexOHp232wxqLqqdRoMPE6_ZW&index=5&ab_channel=Kleros",
+          "subTopics": []
+        }
+      ],
       "summaries": [],
       "questions": []
     }

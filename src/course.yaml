@@ -105,6 +105,7 @@ topics:
   - key: lesson-5-mechanism-design
     title: Mechanism Design
     details: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    readings: lesson-5-mechanism-design.yaml
 courseAdmins: []
 topicConfig:
   showExplanations: false
