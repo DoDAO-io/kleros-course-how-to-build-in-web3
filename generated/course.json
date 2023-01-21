@@ -846,6 +846,37 @@
               "key": "65ed73bd"
             }
           ]
+        },
+        {
+          "uuid": "af21a163-cc0a-4975-a169-1541c89de355",
+          "type": "MultipleChoice",
+          "content": "Which of the following are the correct ways to increase Redundancy? ",
+          "hint": "NoHint",
+          "explanation": "",
+          "answerKeys": [
+            "f250ba82",
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Increase and improve documentation",
+              "key": "A"
+            },
+            {
+              "content": "Increase permission dependency",
+              "key": "105daaaf"
+            },
+            {
+              "content": "Procure only a single solution for a problem",
+              "key": "71b4abf2"
+            },
+            {
+              "content": "Limit the complexity and number of products",
+              "key": "f250ba82"
+            }
+          ]
         }
       ]
     }
