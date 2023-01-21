@@ -90,9 +90,9 @@ topics:
   - key: design-for-web3
     title: Design for Web3
     details: >-
-      The video emphasizes the importance of having a user-centered and cyclical
-      design process and introduces the Jobs to be Done methodology as a useful
-      tool in the ideation process.
+      you will learn how to design your blockchain projects. Plinio, who is the
+      lead UX designer at Kleros covers various topics like human-centered
+      design, web3 design principles, and UX research for web3.
     readings: design-for-web3.yaml
     questions: design-for-web3.yaml
   - key: lesson-5-mechanism-design
