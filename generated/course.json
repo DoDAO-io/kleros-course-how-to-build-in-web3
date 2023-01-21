@@ -989,36 +989,6 @@
           ]
         },
         {
-          "uuid": "135caacb-18c0-4e5d-9c85-9e09c8e2c1ee",
-          "type": "SingleChoice",
-          "content": "What is the \"Challenger's Dilemma\" in curated lists on blockchain platforms?\n",
-          "hint": "NoHint",
-          "explanation": "",
-          "answerKeys": [
-            "9ce3db13"
-          ],
-          "subTopics": [],
-          "difficultyLevel": "Medium",
-          "choices": [
-            {
-              "content": "The cycle where many Challengers lead to fewer correct submissions and higher average challenge rewards",
-              "key": "A"
-            },
-            {
-              "content": "The cycle where fewer Challengers leads to more incorrect submissions and higher average challenge rewards",
-              "key": "9ce3db13"
-            },
-            {
-              "content": "The lack of incentives for Challengers to flag incorrect submissions",
-              "key": "e89e376d"
-            },
-            {
-              "content": "The difficulty in determining which submissions are incorrect",
-              "key": "c0c585ac"
-            }
-          ]
-        },
-        {
           "uuid": "a0c6a652-a666-40d8-91ff-3a0858c066db",
           "type": "SingleChoice",
           "content": "What is a potential drawback of using a time-weighted average as an oracle?\n",
@@ -1045,6 +1015,36 @@
             {
               "content": "It may be too complex to implement",
               "key": "9828c00c"
+            }
+          ]
+        },
+        {
+          "uuid": "135caacb-18c0-4e5d-9c85-9e09c8e2c1ee",
+          "type": "SingleChoice",
+          "content": "What is the \"Challenger's Dilemma\" in curated lists on blockchain platforms?\n",
+          "hint": "NoHint",
+          "explanation": "",
+          "answerKeys": [
+            "9ce3db13"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "The cycle where many Challengers lead to fewer correct submissions and higher average challenge rewards",
+              "key": "A"
+            },
+            {
+              "content": "The cycle where fewer Challengers leads to more incorrect submissions and higher average challenge rewards",
+              "key": "9ce3db13"
+            },
+            {
+              "content": "The lack of incentives for Challengers to flag incorrect submissions",
+              "key": "e89e376d"
+            },
+            {
+              "content": "The difficulty in determining which submissions are incorrect",
+              "key": "c0c585ac"
             }
           ]
         }
