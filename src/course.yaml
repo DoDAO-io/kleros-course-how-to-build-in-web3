@@ -106,7 +106,12 @@ topics:
     questions: lesson-5-mechanism-design.yaml
   - key: partnership-development
     title: Partnership Development
-    details: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    details: >
+      In this chapter, Guangmian who is the Integrations Manager at Kleros talks
+      about the integration design for growth. He discusses how barriers can be
+      decreased for more adoption by designing for “unilateral adoption” and
+      cross and up-selling through methods like progressive enhancement and
+      graceful degradation.
     readings: partnership-development.yaml
     questions: partnership-development.yaml
   - key: scaling-operations
