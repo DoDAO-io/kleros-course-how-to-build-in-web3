@@ -90,9 +90,13 @@ topics:
   - key: design-for-web3
     title: Design for Web3
     details: >-
-      you will learn how to design your blockchain projects. Plinio, who is the
-      lead UX designer at Kleros covers various topics like human-centered
-      design, web3 design principles, and UX research for web3.
+      In this lesson, Plinio, the lead UX designer at Kleros, will guide you
+      through the process of designing successful blockchain projects. The video
+      will cover key topics such as human-centered design, web3 design
+      principles, and UX research specific to web3. Emphasis will be placed on
+      the value of using a user-centered and cyclical design approach, with the
+      Jobs to be Done methodology presented as a valuable tool for idea
+      generation.
     readings: design-for-web3.yaml
     questions: design-for-web3.yaml
   - key: lesson-5-mechanism-design
