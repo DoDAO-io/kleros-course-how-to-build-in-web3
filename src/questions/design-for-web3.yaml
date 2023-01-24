@@ -39,7 +39,7 @@
 - uuid: 870fb08b-e21d-4d27-b342-bd9e166d63f5
   type: SingleChoice
   content: |
-    What is the main principle of Brad Frost's Atomic Methodology?
+    What is the goal of using Brad Frost's Atomic Methodology?
   hint: NoHint
   explanation: ''
   answerKeys:
@@ -47,11 +47,11 @@
   subTopics: []
   difficultyLevel: Medium
   choices:
-    - content: Continuously seeking improvements
-      key: A
-    - content: Focusing on the technical aspects of the product
-      key: 934ca9c5
-    - content: Breaking down the complex design into smaller, reusable parts
-      key: 2346dd8d
-    - content: Prioritizing the needs of the business over the needs of the users
-      key: 71ae1cb6
+    - key: A
+      content: Continuously seeking improvements
+    - key: 934ca9c5
+      content: Focusing on the technical aspects of the product
+    - key: 2346dd8d
+      content: Breaking down the complex design into smaller, reusable parts
+    - key: 71ae1cb6
+      content: Prioritizing the needs of the business over the needs of the users

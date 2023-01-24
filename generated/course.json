@@ -570,7 +570,7 @@
         {
           "uuid": "870fb08b-e21d-4d27-b342-bd9e166d63f5",
           "type": "SingleChoice",
-          "content": "What is the main principle of Brad Frost's Atomic Methodology?\n",
+          "content": "What is the goal of using Brad Frost's Atomic Methodology?\n",
           "hint": "NoHint",
           "explanation": "",
           "answerKeys": [
