@@ -510,7 +510,7 @@
         {
           "uuid": "ee9eec30-8c29-42dd-9bcf-ef15acabf7a7",
           "type": "SingleChoice",
-          "content": "What is the design process described in the tutorial?\n",
+          "content": "How would you classify the design process described in this tutorial?",
           "hint": "NoHint",
           "explanation": "",
           "answerKeys": [
