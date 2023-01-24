@@ -20,7 +20,7 @@
 - uuid: cbd4ef79-f332-4b7a-ad86-9ef991128b35
   type: SingleChoice
   content: |
-    What is the "jobs to be done" methodology used in the design process?
+    What's the main purpose of using the 'Jobs-to-be-Done' methodology?
   hint: NoHint
   explanation: ''
   answerKeys:
@@ -28,14 +28,14 @@
   subTopics: []
   difficultyLevel: Medium
   choices:
-    - content: To identify pain points in the user experience
-      key: A
-    - content: To classify insights in order of satisfaction and importance
-      key: 0972f41a
-    - content: To understand the outcomes that customers want to achieve with a product
-      key: b779d266
-    - content: To explore solutions to a problem
-      key: 799d18a5
+    - key: A
+      content: To identify pain points in the user experience
+    - key: 0972f41a
+      content: To classify insights in order of satisfaction and importance
+    - key: b779d266
+      content: To understand the outcomes that customers want to achieve with a product
+    - key: 799d18a5
+      content: To explore solutions to a problem
 - uuid: 870fb08b-e21d-4d27-b342-bd9e166d63f5
   type: SingleChoice
   content: |

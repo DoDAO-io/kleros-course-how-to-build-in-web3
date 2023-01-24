@@ -540,7 +540,7 @@
         {
           "uuid": "cbd4ef79-f332-4b7a-ad86-9ef991128b35",
           "type": "SingleChoice",
-          "content": "What is the \"jobs to be done\" methodology used in the design process?\n",
+          "content": "What's the main purpose of using the 'Jobs-to-be-Done' methodology?\n",
           "hint": "NoHint",
           "explanation": "",
           "answerKeys": [
