@@ -596,6 +596,36 @@
               "key": "71ae1cb6"
             }
           ]
+        },
+        {
+          "uuid": "f4435c04-117e-4fc7-b00f-d0f7fcf9ca59",
+          "type": "SingleChoice",
+          "content": "Why is ideal to include the designers early on in the product development process while the smart contracts are being discussed?",
+          "hint": "NoHint",
+          "explanation": "",
+          "answerKeys": [
+            "A"
+          ],
+          "subTopics": [],
+          "difficultyLevel": "Medium",
+          "choices": [
+            {
+              "content": "Because effort might be wasted building something that might not meet user requirements",
+              "key": "A"
+            },
+            {
+              "content": "Because design is not important",
+              "key": "65ced792"
+            },
+            {
+              "content": "Because it limits the collaboration between designers and developers",
+              "key": "3741c317"
+            },
+            {
+              "content": "Because it saves time",
+              "key": "47185154"
+            }
+          ]
         }
       ]
     },
